@@ -1,0 +1,46 @@
+.content-card img{
+    width: 250px;
+}
+.content-card{
+    width: auto;
+    height: 300px;
+    margin: 10px;
+}
+.card-details{
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+}
+.like-icon{
+    justify-content: end;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.card-details-div{
+    display: flex;
+}
+.details-main{
+    width: 100%;
+    height: auto;
+}
+
+.details-heading img{
+    width: 40px;
+    
+}
+.commercial-shop{
+    margin: 10px;
+}
+.details-heading {
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.card-details-image{
+    height: 100px;
+    width: 150px;
+}
+.card img{
+    height: 200px;
+    width: 250px;
+}

@@ -1,0 +1,39 @@
+.ads-div{
+    width: 100vw;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    margin: 40px;
+    margin-left: 100px;
+}
+.ads1{
+   
+    height: 33vw;
+    overflow: hidden;
+    display: flex;
+    padding: 20px 10px 20px 20px;
+}
+.ads1 img{
+    height: 28vw;
+    max-height: 27vw;
+    margin: 0;
+    padding: 0;
+    object-fit: fill;
+    vertical-align: middle;
+}
+.ads2{
+    max-width: 30vw;
+    height: 28vw;
+    max-height: 27vw;
+    min-width: 30vw;
+    padding: 20px 20px 20px 0;
+    display: flex;
+}
+.ads2 img{
+    height: 28vw;
+    max-height: 27vw;
+    margin: 0;
+    padding: 0;
+    object-fit: fill;
+    vertical-align: middle;
+}

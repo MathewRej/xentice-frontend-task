@@ -1,0 +1,47 @@
+.search-business-div{
+    width: auto;
+    height: 70vw;
+    max-height: 650px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    background-image: url('../images/office.27bb9079.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.business-dropdown{
+    width: 350px;
+    height: 50px;
+    border-radius: 3px;
+}
+.business-card{
+    width: 430px;
+    height: auto;
+    border-radius: 5px;
+    position: absolute;
+    transform: translate(-80%);
+}
+.card-title{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #000;
+    text-align: left;
+    margin: 10px;
+   
+    margin-top: 0;
+    margin-bottom: 1rem;
+
+}
+.search-button{
+    width: 350px;
+    margin: 10px;
+}
+.card-text{
+    color: #000;
+    margin: 20px;
+    text-align: left;
+
+}

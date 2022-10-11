@@ -1,0 +1,33 @@
+.subcontent-div{
+    height: 130px;
+    width: 100%;
+    background-color: #012b72;
+}
+.subcontent-item img{
+    width: 40px;
+
+}
+.subcontent-item{
+    text-align: center;
+    margin: 15px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+.subcontent-item p{
+    color: #f3f7f8;
+    margin-top: 4px;
+    opacity: .5;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+}
+.subcontent-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.items{
+    display: flex;
+    margin: 10px;
+}

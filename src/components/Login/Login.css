@@ -1,0 +1,47 @@
+.login-content{
+    background-color: #012b72;
+    height: 100vh;
+}
+.modal-close-btn{
+    color: white;
+}
+/* .login-xentice-icon img{
+    width: 160px;
+} */
+.xentice-icon{
+    width: 160px;
+    cursor: pointer;
+}
+.close-icon{
+    width: 20px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20p;
+    cursor: pointer;
+}
+.login-xentice-title p{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+.login-xentice-li{
+    color: white;
+    font-size: 15px;
+    margin: 10px;
+}
+.login-main{
+    width: auto;
+    height: 100%;
+    display: flex;
+}
+.login-contents{
+    background-color: #012b72;
+    width: 40%;
+}
+.signup{
+    width: 60%;
+}
+.login-xentice-icon{
+    display: flex;
+}

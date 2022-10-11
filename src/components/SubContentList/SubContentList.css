@@ -1,0 +1,35 @@
+.subcontent-list{
+    height: 150px;
+    background-color: #fff;
+ 
+    width: 100%;
+}
+.subcontent-list-items{
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+.list-items{
+    display: flex;
+    margin: 10px;
+}
+.subcontent-list-item img{
+    width: 40px;
+    margin: 20px;
+    
+}
+.list-item{
+    margin: 20px;
+}
+.list-item :hover{
+    /* width: 45px;
+    margin: 20px; */
+    
+}
+.list-item p{
+    text-align: center;
+}
+.subcontent-list-item{
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}

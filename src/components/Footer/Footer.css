@@ -1,0 +1,48 @@
+.footer-maindiv{
+    width: 100%;
+    min-height: 300px;
+    border-top: 0.5px solid #012b72;
+    background-color: #012b72;
+    justify-content: space-between;
+}
+.footer-lists{
+    display: flex;
+    margin: 10px 40px; 
+}
+.footer-headings{
+    width: 25%;
+    color: white;
+    
+}
+.footer-headings a{
+    cursor: pointer;
+
+}
+.footer-disclaimer{
+    color: white;
+    display: flex;
+}
+.gp-icon-div img{
+    width: 150px;
+}
+.gp-icon-div{
+    margin: 40px;
+}
+.footer-allrights{
+    display: flex;
+    color: white;
+}
+.footer-allrights a{
+    margin: 10px;
+    
+}
+.contactus-div{
+    text-align: end;
+}
+.footer-heading{
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer-details p{
+    color: rgb(198, 212, 252);
+}
